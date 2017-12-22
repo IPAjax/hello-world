@@ -6,3 +6,5 @@ for myself, to GitHub. It's exciting for me to be moving forward with freelance
 development career. After 10 years of developing apps plugins and patches solely
 for my own company, AMW Stuidos, I am looking forward to using what I have learned
 to help other small businesses!
+
+This paragraph was added from my Mac while I am learning to use git!
